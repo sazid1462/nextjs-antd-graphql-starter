@@ -1,4 +1,4 @@
-# NextJS AntDesign GraphQL Starter Boilerplate Code
+# NextJS AntDesign GraphQL Starter Boilerplate Code Frontend
 
 ## NPM scripts
 
